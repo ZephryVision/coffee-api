@@ -1,44 +1,72 @@
 [
   {
     "id": 1,
-    "nama": "Espresso",
-    "harga": 15000,
-    "gambar": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&q=80",
-    "deskripsi": "Kopi hitam pekat, aroma kuat, single shot."
+    "nama": "Americano",
+    "harga": 18000,
+    "deskripsi": "Kopi hitam klasik dengan rasa kuat dan aroma khas. Terbuat dari espresso yang diencerkan dengan air panas, cocok untuk pencinta rasa kopi murni.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/americano.jpg"
   },
   {
     "id": 2,
-    "nama": "Americano",
-    "harga": 17000,
-    "gambar": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&q=80",
-    "deskripsi": "Espresso ditambah air panas — ringan dan nikmat."
+    "nama": "Cappuccino",
+    "harga": 22000,
+    "deskripsi": "Perpaduan espresso, susu panas, dan busa susu lembut yang menciptakan rasa creamy dan seimbang antara manis dan pahit.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/cappuccino.jpg"
   },
   {
     "id": 3,
     "nama": "Latte",
-    "harga": 20000,
-    "gambar": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=800&q=80",
-    "deskripsi": "Kopi susu dengan foam lembut — cocok bagi penyuka susu."
+    "harga": 23000,
+    "deskripsi": "Kopi espresso dengan susu panas dalam proporsi lebih banyak, menghasilkan rasa lembut dengan aroma susu yang menenangkan.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/latte.jpg"
   },
   {
     "id": 4,
-    "nama": "Cappuccino",
-    "harga": 21000,
-    "gambar": "https://images.unsplash.com/photo-1512568400610-62da28bc8a13?w=800&q=80",
-    "deskripsi": "Perpaduan espresso, susu panas, dan foam tebal."
+    "nama": "Mocha",
+    "harga": 25000,
+    "deskripsi": "Kombinasi sempurna antara kopi espresso, cokelat, dan susu yang menghasilkan rasa manis pahit yang menggoda.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/mocha.jpg"
   },
   {
     "id": 5,
-    "nama": "Mocha",
-    "harga": 23000,
-    "gambar": "https://images.unsplash.com/photo-1511920170033-92a7c0a9f7b0?w=800&q=80",
-    "deskripsi": "Kopi + cokelat — manis dan kaya rasa."
+    "nama": "Espresso",
+    "harga": 16000,
+    "deskripsi": "Ekstraksi kopi murni dengan tekanan tinggi yang menghasilkan rasa pekat dan aroma kuat. Cocok untuk penikmat kopi sejati.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/espresso.jpg"
   },
   {
     "id": 6,
-    "nama": "Iced Coffee",
-    "harga": 18000,
-    "gambar": "https://images.unsplash.com/photo-1526318472351-c75fcf0708a9?w=800&q=80",
-    "deskripsi": "Kopi dingin, segar, sempurna untuk cuaca panas."
+    "nama": "Macchiato",
+    "harga": 24000,
+    "deskripsi": "Espresso dengan sedikit busa susu di atasnya, memberikan keseimbangan antara rasa kuat kopi dan lembut susu.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/macchiato.jpg"
+  },
+  {
+    "id": 7,
+    "nama": "Cold Brew",
+    "harga": 27000,
+    "deskripsi": "Kopi diseduh dengan air dingin selama 12 jam, menghasilkan rasa halus dan tidak terlalu asam dengan aroma menyegarkan.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/coldbrew.jpg"
+  },
+  {
+    "id": 8,
+    "nama": "Caramel Latte",
+    "harga": 26000,
+    "deskripsi": "Latte dengan tambahan sirup karamel manis yang memberikan sentuhan rasa gurih dan lezat di setiap tegukan.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/caramellatte.jpg"
+  },
+  {
+    "id": 9,
+    "nama": "Vanilla Latte",
+    "harga": 26000,
+    "deskripsi": "Campuran espresso, susu panas, dan sirup vanila yang menciptakan cita rasa lembut dan harum khas vanila.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/vanillalatte.jpg"
+  },
+  {
+    "id": 10,
+    "nama": "Affogato",
+    "harga": 28000,
+    "deskripsi": "Sajian unik berupa satu scoop es krim vanila yang disiram dengan espresso panas. Perpaduan manis dan pahit yang sempurna.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/affogato.jpg"
   }
 ]
