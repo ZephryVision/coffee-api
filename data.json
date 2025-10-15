@@ -1,72 +1,72 @@
 [
   {
     "id": 1,
-    "nama": "Americano",
-    "harga": 18000,
-    "deskripsi": "Kopi hitam klasik dengan rasa kuat dan aroma khas. Terbuat dari espresso yang diencerkan dengan air panas, cocok untuk pencinta rasa kopi murni.",
-    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/americano.jpg"
+    "nama": "Caffè Latte",
+    "harga": 25000,
+    "deskripsi": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/caffe_latte_poster.jpg"
   },
   {
     "id": 2,
     "nama": "Cappuccino",
-    "harga": 22000,
-    "deskripsi": "Perpaduan espresso, susu panas, dan busa susu lembut yang menciptakan rasa creamy dan seimbang antara manis dan pahit.",
-    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/cappuccino.jpg"
+    "harga": 23000,
+    "deskripsi": "Espresso with steamed milk, topped with a deep layer of foam.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/cappuccino_poster.jpg"
   },
   {
     "id": 3,
-    "nama": "Latte",
-    "harga": 23000,
-    "deskripsi": "Kopi espresso dengan susu panas dalam proporsi lebih banyak, menghasilkan rasa lembut dengan aroma susu yang menenangkan.",
-    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/latte.jpg"
+    "nama": "Caffè Mocha",
+    "harga": 27000,
+    "deskripsi": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/caffe_mocha_poster.jpg"
   },
   {
     "id": 4,
-    "nama": "Mocha",
-    "harga": 25000,
-    "deskripsi": "Kombinasi sempurna antara kopi espresso, cokelat, dan susu yang menghasilkan rasa manis pahit yang menggoda.",
-    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/mocha.jpg"
+    "nama": "Caramel Macchiato",
+    "harga": 28000,
+    "deskripsi": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; it’s then topped with our proprietary buttery caramel sauce. Sweet!",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/caramel_macchiato_poster.jpg"
   },
   {
     "id": 5,
-    "nama": "Espresso",
-    "harga": 16000,
-    "deskripsi": "Ekstraksi kopi murni dengan tekanan tinggi yang menghasilkan rasa pekat dan aroma kuat. Cocok untuk penikmat kopi sejati.",
-    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/espresso.jpg"
+    "nama": "Vanilla Sweet Cream Cold Brew",
+    "harga": 29000,
+    "deskripsi": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/vanilla_sweet_cream_cold_brew_poster.jpg"
   },
   {
     "id": 6,
-    "nama": "Macchiato",
-    "harga": 24000,
-    "deskripsi": "Espresso dengan sedikit busa susu di atasnya, memberikan keseimbangan antara rasa kuat kopi dan lembut susu.",
-    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/macchiato.jpg"
+    "nama": "Cold Brew",
+    "harga": 27000,
+    "deskripsi": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals. We specifically developed the Starbucks Cold Brew Blend to heighten the rich, naturally sweet flavor created during the cold brewing process.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/cold_brew_poster.jpg"
   },
   {
     "id": 7,
-    "nama": "Cold Brew",
-    "harga": 27000,
-    "deskripsi": "Kopi diseduh dengan air dingin selama 12 jam, menghasilkan rasa halus dan tidak terlalu asam dengan aroma menyegarkan.",
-    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/coldbrew.jpg"
+    "nama": "Mango Passion Frappuccino",
+    "harga": 26000,
+    "deskripsi": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/mango_passion_frappuccino_poster.jpg"
   },
   {
     "id": 8,
-    "nama": "Caramel Latte",
+    "nama": "Raspberry Currant Frappuccino",
     "harga": 26000,
-    "deskripsi": "Latte dengan tambahan sirup karamel manis yang memberikan sentuhan rasa gurih dan lezat di setiap tegukan.",
-    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/caramellatte.jpg"
+    "deskripsi": "Made with freshly brewed Teavana tea, blended juice and ice.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/raspberry_currant_frappuccino_poster.jpg"
   },
   {
     "id": 9,
-    "nama": "Vanilla Latte",
-    "harga": 26000,
-    "deskripsi": "Campuran espresso, susu panas, dan sirup vanila yang menciptakan cita rasa lembut dan harum khas vanila.",
-    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/vanillalatte.jpg"
+    "nama": "Coffee Frappuccino",
+    "harga": 25000,
+    "deskripsi": "Starbucks coffee is blended with nonfat milk and ice for a sip on the light side.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/coffee_frappuccino_poster.jpg"
   },
   {
     "id": 10,
-    "nama": "Affogato",
-    "harga": 28000,
-    "deskripsi": "Sajian unik berupa satu scoop es krim vanila yang disiram dengan espresso panas. Perpaduan manis dan pahit yang sempurna.",
-    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/affogato.jpg"
+    "nama": "Mocha Frappuccino",
+    "harga": 27000,
+    "deskripsi": "Mocha sauce, Frappuccino roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
+    "gambar": "https://raw.githubusercontent.com/ZephryVision/coffee-api/main/mocha_frappuccino_poster.jpg"
   }
 ]
